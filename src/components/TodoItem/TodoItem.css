@@ -1,0 +1,20 @@
+.list {
+  display: flex;
+  justify-content: space-between;
+  width: 550px;
+  align-items: center;
+}
+.list-second{
+ display: flex;
+ align-items: center;
+ flex:1
+}
+.list button {
+  width: 70px;
+  height: 40px;
+}
+
+.maked-list-group-item {
+  text-decoration-line: line-through;
+  text-decoration-style: solid;
+}
